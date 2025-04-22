@@ -78,40 +78,6 @@
     margin-top: 10px;
   }
   
-  /* 
-  .movies-section {
-    padding: 40px 20px;
-    background-color: #1a1a1a;
-  }
-  .movies-section h2 {
-    font-size: 2rem;
-    margin-bottom: 20px;
-    color: #ff4747;
-    text-align: center;
-  }
-  .movie-cards {
-    display: flex;
-    gap: 20px;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
-  .movie-card {
-    background-color: #2a2a2a;
-    border-radius: 10px;
-    overflow: hidden;
-    width: 200px;
-    text-align: center;
-  }
-  .movie-card img {
-    width: 100%;
-    height: 300px;
-    object-fit: cover;
-  }
-  .movie-card h3 {
-    padding: 10px;
-    font-size: 1.1rem;
-  }
-  
   /* Info section */
   .info-section {
     padding: 40px 20px;
@@ -139,14 +105,6 @@
     margin: 40px 0 10px;
     color: #ff4747;
     text-align: center;
-  }
-  ul, ol {
-    max-width: 600px;
-    margin: 10px auto 30px;
-    padding-left: 20px;
-  }
-  ul li, ol li {
-    margin-bottom: 10px;
   }
   
   /* Footer */
